@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="4" width="32" height="32" rx="8" fill="#111111" stroke="#C8FF00" stroke-width="1"/>
+  <text x="16" y="26" text-anchor="middle" fill="#C8FF00" font-family="system-ui,sans-serif" font-size="18" font-weight="700">S</text>
+  <text x="42" y="17" fill="#FFFFFF" font-family="system-ui,sans-serif" font-size="9" font-weight="600" letter-spacing="2">STACK</text>
+  <text x="42" y="29" fill="#888888" font-family="system-ui,sans-serif" font-size="9" font-weight="600" letter-spacing="2">STUDIO</text>
+</svg>
